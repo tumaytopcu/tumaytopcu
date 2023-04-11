@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tumaytopcu
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning Python, R and SQL.
-- 💞️ I’m looking to collaborate on data analysis projects.
+- 👀 I’m interested in mobile application development and data analytics industry
+- 🌱 I’m currently learning Dart, Python, R and SQL.
+- 💞️ I’m looking to collaborate on product management roles.
 - 📫 How to reach me:
 - tumay.topcu@agu.edu.tr
 - https://www.linkedin.com/in/tumaytopcu/
